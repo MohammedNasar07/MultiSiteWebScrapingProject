@@ -1,4 +1,4 @@
-# webscraping_multisite.py
+# Web scraping script for multiple websites
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
